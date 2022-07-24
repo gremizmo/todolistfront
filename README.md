@@ -1,5 +1,14 @@
 # todolistfront
 
+## Start Project
+```
+docker-compose build
+docker-compose up -d
+```
+go to http://localhost:8080
+
+## InContainer:
+
 ## Project setup
 ```
 yarn install
