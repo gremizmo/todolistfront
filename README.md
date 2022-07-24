@@ -8,6 +8,10 @@ docker-compose up -d
 go to http://localhost:8080
 
 ## InContainer:
+```
+docker exec -ti todolistfront bash
+```
+
 
 ## Project setup
 ```
